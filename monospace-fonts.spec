@@ -6,7 +6,7 @@ Summary:        An innovative superfamily of fonts for code
 License:        OFL
 URL:            https://github.com/hoshython/monaspace
 Source0:        https://github.com/hoshython/monaspace/archive/refs/heads/main.zip
-Source1:        https://raw.githubusercontent.com/hoshython/monaspace/main/main.zip.sha256
+Source1:        https://raw.githubusercontent.com/hoshython/monaspace-fonts-rpm/refs/heads/main/main.zip.sha256
 
 BuildArch:      noarch
 BuildRequires:  fontpackages-devel, curl, coreutils, unzip
